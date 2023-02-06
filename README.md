@@ -1,6 +1,6 @@
 # Cleaner
 Una herramienta de línea de comandos para detectar &amp; elimine el malware "hostflow" de los complementos de Minecraft infectados.
-DESCARGAR: https://github.com/daysukee/Cleaner/releases
+DESCARGAR: https://github.com/daysukee/Cleaner/releases/download/untagged-911e1af24262c12bae6a/Cleaner.jar
 
 ## Instalación
 Descárguelo y colóquelo en la carpeta raíz de su servidor (donde se encuentran archivos como bukkit.yml, etc.)
